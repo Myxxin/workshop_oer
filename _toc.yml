@@ -18,4 +18,4 @@ chapters:
       - file: epilog/impressum.md
   - file: trust/trust_tutorial.md
     sections:
-      - file: trust/trust_tutorial.md
+      - file: trust/tok2.md
