@@ -19,4 +19,4 @@ chapters:
   - file: trust/trust_tutorial.md
     sections:
       - file: trust/tok2.md
-      - file: my_jup.ipynb
+      - file: trust/my_jup.ipynb
