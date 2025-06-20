@@ -17,3 +17,5 @@ chapters:
       - file: epilog/autor_innen.md
       - file: epilog/impressum.md
   - file: trust/trust_tutorial.md
+    sections:
+      - file: trust/trust_tutorial.md
